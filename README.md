@@ -1,4 +1,4 @@
-# landingpage_moveis-reactjs
+# shoppingCartPetshop-ReactJs
 💻 Petshop store with products using React Js
 <div align="center">
 
