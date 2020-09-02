@@ -1,0 +1,90 @@
+.header{ max-width: 1290px;}
+.Promo{
+  display: flex;
+  margin: 10px;
+  justify-content: center;
+  align-items: center;
+}
+h3
+{ text-align: center;
+ color: rgba(0, 0, 0, 0.61);
+font-weight: 500;}
+Link{ text-decoration: none;}
+.Produtos{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.Produtos div{
+  text-align: center;
+}
+.Produtos p{
+  font-size: 15px;
+color: rgba(0, 0, 0, 0.61);
+}
+
+.Produtos h4{
+  font-weight: 600;
+color: #4A517B;
+}
+
+
+.Produtos button{
+  width: 120px;
+height: 44px;
+background: #F19292;
+border-radius: 15px;
+color: white;
+font-size: 14px;
+border: none;
+}
+.Produtos button:hover{
+  background-color: #4A517B;
+  width: 125px;
+  height: 48px;
+}
+
+ .Newsletter{
+   margin: 20px;
+   background: url('images/Newsletter.png');
+   height:336px;
+  background-position: center;
+}
+
+.Newsletter button{
+  width: 160px;
+height: 54px;
+background-color: #F19292;
+color: white;
+border: none;
+border-radius: 20px;
+}
+.Newsletter textarea{
+  width: 260px;
+  border-radius: 10px;
+  border: none;
+}
+.Newsletter div{
+  position: absolute;
+top: 1240px;
+left: 610px;}
+
+footer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(180deg, rgba(203, 226, 176, 0.5) 35.94%, rgba(252, 200, 67, 0.37) 100%);
+}
+
+footer div{
+  text-align: center;
+  margin: 20px;
+}
+
+footer p{
+  color: #8A5631;
+}
+
+footer h5{
+  color: #4A517B;
+}

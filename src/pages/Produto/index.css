@@ -1,0 +1,78 @@
+header{
+  background: url('./images/Banner.png');
+  width: 1290px;
+  height: 166px;
+margin: 0 auto;}
+
+ ul li {
+    list-style: none;
+    color: white;
+    display: inline;
+    padding: 20px;
+    margin-left: 40px;
+ }
+
+.Container{
+  margin: 60px;
+display: flex;
+justify-content: center;
+align-items: center;}
+.Imagens{
+  float: left;
+}
+
+.Descricao{
+  float: left;
+  margin: 20px;
+  
+}
+.Descricao h2{
+letter-spacing: 0.05em;
+color: #4A517B;
+font-weight: 800;
+
+}
+.Descricao p{
+  color: rgba(0, 0, 0, 0.58);
+}
+.Descricao h3{
+  font-size: 24px;
+  font-weight: bold;
+text-align: left;
+color: #4A517B
+}
+.Miniaturas{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Tamanhos{
+  display: flex;
+}
+.Tamanhos button{
+  width: 45px;
+height: 45px;
+color: white;
+background: #F19292;
+border-radius: 50%;
+border: none;
+margin: 2px;
+margin-top: 15px;;
+
+}
+.Tamanhos button:hover{
+  background-color: #4A517B;
+}
+
+
+
+.Botoes button{
+  width: 224px;
+height: 49px;
+color: white;
+border: none;
+font-weight: bold;
+background-color: #F19292;
+border-radius: 20px;
+}
