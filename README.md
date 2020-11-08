@@ -1,5 +1,5 @@
 # shoppingCartPetshop-ReactJs
-💻 Petshop store with products using React Js
+💻 <b> Petshop store with products using React Js</b>
 <div align="center">
 
 <img src="https://i.ibb.co/9rjrQst/Purple-App-Phone-Mockup-Sales-Marketing-Presentation.png" width="800px"> 
